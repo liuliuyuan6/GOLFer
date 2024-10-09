@@ -6,6 +6,8 @@ This is the code repository for the paper: [GOLFer](https://github.com/castorini
 ## Steps to run the code
 1. Install `<pyserini>` by following the [guide](https://github.com/castorini/pyserini#-installation). We use pyserini to conduct dense retrieval and evaluation.
 2. Download the hypothesis documents by llama3-8b-instruct in folder `<hypothesis documents for DL19>`, run `<GOLFer-dl19.ipynb>`, it will run the experiment on the TREC DL19 dataset. 
+
+## Citation
 @article{hyde,  
   title = {Precise Zero-Shot Dense Retrieval without Relevance Labels},  
   author = {Luyu Gao and Xueguang Ma and Jimmy Lin and Jamie Callan},  
