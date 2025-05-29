@@ -1,7 +1,6 @@
 # GLOFer
 This is the code repository for the paper: [GOLFer](https://github.com/castorini/pyserini#-installation)  
 **GOLFer** is a query expansion approach for..  
-![our figure](https://www.baidu.com/img/bd_logo1.png)
 
 ## Steps to run the code
 1. Install `<pyserini>` by following the [guide](https://github.com/castorini/pyserini#-installation). We use pyserini to conduct dense retrieval and evaluation.
