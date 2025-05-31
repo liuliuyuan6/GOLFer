@@ -1,0 +1,58 @@
+TREC DL19:
+messages = [{"role": "system", "content": 'Please write a passage to answer the question.'},
+    	    {"role": "user", "content": question_text}]
+
+TREC DL20:
+messages = [{"role": "system", "content": 'Please write a passage to answer the question.'},
+    	    {"role": "user", "content": question_text}]
+
+MS MARCO dev:
+messages = [{"role": "system", "content": 'Please write a passage to answer the question.'},
+    	    {"role": "user", "content": question_text}]
+
+NQ:
+messages = [{"role": "system", "content": 'Please write a passage to answer the question.'},
+    	    {"role": "user", "content": question_text}]
+
+FIQA:
+messages = [{"role": "system", "content": 'Please write a financial article passage to answer the question.'},
+    	    {"role": "user", "content": question_text}]
+
+
+TREC_COVID:
+messages = [{"role": "system", "content": 'Please write a scientific paper passage to answer the question.'},
+    	    {"role": "user", "content": question_text}]
+
+
+Signal1m:
+messages = [{"role": "system", "content": 'Please write a passage to answer the question.'},
+    	    {"role": "user", "content": question_text}]
+
+TREC_NEWS:
+messages = [{"role": "system", "content": 'Please write a news passage about the topic.'},
+    	    {"role": "user", "content": question_text}]
+
+Robsut04:
+messages = [{"role": "system", "content": 'Please write a news passage about the topic.'},
+    	    {"role": "user", "content": question_text}]
+
+
+Touche2020:
+messages = [{"role": "system", "content": 'Please write a counter argument for the passage.'},
+    	    {"role": "user", "content": question_text}]
+
+
+
+CQADupStack:
+messages = [{"role": "system", "content": 'Please write a passage to answer the question.'},
+    	    {"role": "user", "content": question_text}]
+
+
+DBPEDIA_ENTITY:
+messages = [{"role": "system", "content": 'Please write a passage to answer the question.'},
+    	    {"role": "user", "content": question_text}]
+
+
+SCIFACT:
+messages = [{"role": "system", "content": 'Please write a scientific paper passage to support/refute the claim.'},
+    	    {"role": "user", "content": question_text}]
