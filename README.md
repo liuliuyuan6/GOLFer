@@ -2,7 +2,7 @@
 
 **📢 News: this work has been accepted at the ACL 2025 findings!** [Paper](https://arxiv.org/abs/2506.04762)
 
-GOLFer: Smaller LMs-Generated Document Hallucination Filter & Combiner — A novel method that leverages smaller open-source LMs for query expansion. GOLFer comprises two modules: a hallucination filter and a documents combiner. The former detects and removes non-factual and inconsistent sentences in generated documents, a common issue with smaller LMs, while the latter combines the filtered content with the query using a weight vector to balance their influence. 
+GOLFer: Smaller LMs-Generated Document Hallucination Filter & Combiner — A novel method that leverages smaller open-source LMs for query expansion. GOLFer comprises two modules: a hallucination filter and a documents combiner. The former detects and removes non-factual and inconsistent sentences in generated documents, a common issue with smaller LMs, while the latter combines the filtered content with the query using a weight vector to balance their influence.  
 
 <img src="workflow.png" alt="workflow" style="width: 800px; height: 500px;">
 
